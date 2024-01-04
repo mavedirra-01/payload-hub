@@ -1,1 +1,0 @@
-sudo responder -I wlan0
