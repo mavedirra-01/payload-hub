@@ -1,0 +1,17 @@
+{
+    "grouped": true,
+    "tabs": [
+        {
+            "name": "Responder",
+            "command": "echo 'test' && sleep 3600"
+        },
+        {
+            "name": "Echo 1",
+            "command": "echo 'Tab 1' && sleep 3600"
+        },
+        {
+            "name": "Echo 2",
+            "command": "echo 'Tab 2' && sleep 3600"
+        }
+    ]
+}
